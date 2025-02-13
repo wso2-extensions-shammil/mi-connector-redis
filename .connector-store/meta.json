@@ -2,7 +2,7 @@
     "name": "Redis",
     "owner": "WSO2",
     "product": "MI",
-    "category": "Developer Tools Test 2",
+    "category": "Developer Tools Test 3",
     "documentationUrl": "https://mi.docs.wso2.com/en/latest/reference/connectors/redis-connector/redis-connector-overview/",
     "mavenGroupId": "org.wso2.integration.connector",
     "mavenArtifactId": "mi-connector-redis-test",
